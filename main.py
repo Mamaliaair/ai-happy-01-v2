@@ -1,8 +1,8 @@
 # A make.fun ai-happy-01 entry (Python 3.13, standard library only).
 # The image beside this file is the entry: a golden retriever puppy and a
 # small orange kitten snuggled together cheek to cheek in warm golden
-# sunlight, both with soft happy relaxed expressions. The program copies
-# it to /output/entry.png.
+# sunlight, both with soft happy relaxed expressions and closed contented
+# eyes. The program copies it to /output/entry.png.
 #
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
